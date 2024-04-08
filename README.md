@@ -3,7 +3,7 @@
 - My latest guides are my CachyOS config install on other distros which you can find here: https://github.com/enderpirate98/Cachyos-look-and-feel as well as the ultimate OpenSUSE Tumbleweed install which you can find here: https://github.com/enderpirate98/Minimal-OpenSUSE-TW-Install
 - I did make a Fedora Minimal install guide but it is not that great but if you want here it is: https://github.com/enderpirate98/fedora-minimal
 - I made a guide on how to have a more private and secure Android phone which you can find here: https://github.com/enderpirate98/private-phone
-- I am working on "How To Adult" which is a practical guide on how to navigate life as an Adult from a Technical view
+- I am working on "How To Adult" which is a practical guide on how to navigate life as an Adult by a Curious Teenager (as of writing)
 
 Introduction: https://github.com/enderpirate98/hta-intro
 <!---
