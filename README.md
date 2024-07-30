@@ -12,7 +12,7 @@ I was working on "How To Adult" which is a practical guide on how to navigate li
 Ultimate Debian Home Server series:
 
 - Getting started: https://github.com/enderpirate98/deb-server
-- Jellyfin + Sambashare: https://github.com/enderpirate98/jellyfin (Not created yet)
+- Jellyfin + Sambashare: https://github.com/enderpirate98/jellyfin
 - Pi-hole: https://github.com/enderpirate98/pi-hole (Not created yet)
 - Nextcloud + Onlyoffice: https://github.com/enderpirate98/nextcloud (Not created yet)
 <!---
